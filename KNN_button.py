@@ -9,7 +9,7 @@ import threading
 knn = cv2.ml.KNearest_create()
 
 # 학습 데이터 읽기
-file = np.genfromtxt('dataset//collected.csv', delimiter=',')
+file = np.genfromtxt('collected.csv', delimiter=',')
 fsr_val = file[:, :-1].astype(np.float32)
 label = file[:, -1].astype(np.float32)
 
