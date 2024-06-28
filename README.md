@@ -2,7 +2,7 @@
 
 사용한 알고리즘 KNN
 
-사용한 장비 FSR, Arduino Nano
+사용한 장비 FSR 8개, Arduino Nano
 
 
 <img src="https://github.com/sdds3441/Cushion/assets/124592031/088377be-87a7-4d9c-81ed-87f2adc5ddf8" width="400" height="400"/>
