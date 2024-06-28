@@ -4,6 +4,8 @@
 
 사용한 장비 FSR, Arduino Nano
 
+![KakaoTalk_20240626_135815698](https://github.com/sdds3441/Cushion/assets/124592031/088377be-87a7-4d9c-81ed-87f2adc5ddf8){: width="100" height="100"}
+
 0 = Good posture,
 1 = Leaning to the left posture,
 2 = Leaning to the right posture,
