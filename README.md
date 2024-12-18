@@ -1,8 +1,8 @@
-자세교정방 만들기
+Making a self-correcting cushion
 
-사용한 알고리즘 KNN
+Algorithm in use KNN
 
-사용한 장비 FSR 8개, Arduino Nano
+Equipment used: 8 FSRs, Arduino Nano
 
 
 <img src="https://github.com/sdds3441/Cushion/assets/124592031/088377be-87a7-4d9c-81ed-87f2adc5ddf8" width="400" height="400"/>
